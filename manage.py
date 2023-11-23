@@ -6,8 +6,8 @@ import openpyxl
 
 app = Flask(__name__)
 
-username='postgres'
-password='123456'
+username='Your_Username'
+password='Your_password'
 host='@localhost'
 port=5432
 
